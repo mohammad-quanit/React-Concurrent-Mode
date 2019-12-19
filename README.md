@@ -1,4 +1,4 @@
-# React-Concurrent-Mode Demo"
+# React-Concurrent-Mode Demo
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
